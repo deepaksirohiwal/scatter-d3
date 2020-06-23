@@ -1,0 +1,6 @@
+[0501/234048.603:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Setmy\Reports\Dump: The system cannot find the path specified. (0x3)
+[0501/234048.620:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0501/234048.621:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Setmy\Reports\Dump: The system cannot find the path specified. (0x3)
+[0502/212234.741:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Setmy\Reports\Dump: The system cannot find the path specified. (0x3)
+[0502/212234.748:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0502/212234.749:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Setmy\Reports\Dump: The system cannot find the path specified. (0x3)

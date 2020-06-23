@@ -1,0 +1,34 @@
+.x-axis-label{
+    font-size:  10px;
+    color:black;
+}
+.main{
+    display:flex;
+    flex-direction:column;    
+    width:100vw;
+    height:100vh;
+   
+}
+#title{
+    text-align:center;
+    
+    height:15%;
+}
+.main svg{
+    display:flex;
+    align-self: center;
+    background-color: rgb(75, 62, 62);
+}
+.dot{
+    stroke: #000;
+    opacity: 0.8;
+}
+.tooltip{
+    position: absolute;
+    padding:10px;
+    font:12px ;
+    background:lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;	
+}
